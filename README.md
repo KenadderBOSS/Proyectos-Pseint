@@ -53,7 +53,7 @@ Sistema básico para registrar velocidades de vehículos en un peaje.
 [📄 Ver código](./controlpeaje.psc)
 
 ---
-<img width="962" height="1024" alt="imagen" src="https://github.com/user-attachments/assets/dacbb3b0-c416-4448-a59a-553485778231" />
+<img width="1042" height="620" alt="imagen" src="https://github.com/user-attachments/assets/2327e775-6489-4c50-b1cc-8b6543eb7233" />
 
 ### 🟡 Medio
 
