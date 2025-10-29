@@ -158,5 +158,12 @@ Calculadora de términos de la serie armónica.
 4. **Ejecuta** cada algoritmo para ver cómo funciona
 5. **Modifica** el código para experimentar y aprender
 
+## Contribuciones
+Si tienes mejoras o nuevos ejercicios, ¡las contribuciones son bienvenidas!
+- Haz un Fork del proyecto
+- Crea una rama para tu ejercicio (git checkout -b nuevo-ejercicio)
+- Commit tus cambios (git commit -m 'Añadir nuevo ejercicio')
+- Push a la rama (git push origin nuevo-ejercicio)
+Abre un Pull Request
 ---
 **¿Te fue útil este repositorio?** ¡Dale una ⭐ para apoyar el proyecto!
