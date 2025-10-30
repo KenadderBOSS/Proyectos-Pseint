@@ -152,7 +152,7 @@ Calculadora de términos de la serie armónica.
 1. **Descarga PSeInt** desde [pseint.sourceforge.net](http://pseint.sourceforge.net/)
 2. **Clona este repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/Proyectos-Pseint.git
+   git clone https://github.com/KenadderBOSS/Proyectos-Pseint.git
    ```
 3. **Abre los archivos .psc** en PSeInt
 4. **Ejecuta** cada algoritmo para ver cómo funciona
